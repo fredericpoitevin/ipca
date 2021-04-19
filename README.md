@@ -2,11 +2,19 @@
 
 ## Quick install
 
+For now, it is as easy as forking and cloning:
+```bash
+git clone https://github.com/<your_github_handle>/ipca
+```
+
 ## Usage
 
+To be done...
 `/sdf/scratch/fpoitevi/singularity_images/ana-skopi_latest.sif`
 
 ## Data Availability
+
+To be done...
 
 ## Contributing
 
